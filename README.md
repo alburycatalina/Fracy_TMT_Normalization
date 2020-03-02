@@ -1,5 +1,7 @@
 # TMT_Normalization
-A script for normalizing TMT data for proteomic analysis in the polar phytoplankton, _F. cylindrus_. Modified from Wu et al. 2019. (Original code here: https://github.com/bertrand-lab/phaeo-mn-fe).
+A script for normalizing TMT data for proteomic analysis in the polar phytoplankton, _F. cylindrus_. Modified from Wu et al. 2019. Original code here: https://github.com/bertrand-lab/phaeo-mn-fe.
+
+This script uses imputation to account for the absence of data in a channel. If more than half of 
 
 
 ## Sources Cited
